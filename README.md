@@ -1,6 +1,6 @@
 # pwgen
 
-A simple password generator
+A simple password generator. An attempt at something like https://github.com/tytso/pwgen
 
 ```
 Description:

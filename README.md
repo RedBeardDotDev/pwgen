@@ -11,7 +11,7 @@ Usage:
 
 Options:
   --alpha            Lowercase letters [a..z] [default: True]
-  --ALPHA            Capital letters [A..Z] [default: True]
+  --ALPHA            Uppercase letters [A..Z] [default: True]
   --numbers          Numbers [0..9] [default: True]
   --special          Special characters [!@#$%^&*()...] - ASCII values 33..47, 58..64, 91..96, 123..126 [default: True]
   --count <count>    The number of passwords you want generated [default: 10]

@@ -12,7 +12,7 @@ var alphaOption = new Option<bool>(
         );
 var ALPHAOption = new Option<bool>(
             name: "--ALPHA",
-            description: "Capital letters [A..Z]",
+            description: "Uppercase letters [A..Z]",
             getDefaultValue: () => true
         );
 var numbersOption = new Option<bool>(
